@@ -45,7 +45,7 @@
 | LINGUA      | LIVELLO     |
 | ----------- | ----------- |
 | Italiano    | Madrelingua |
-| Inglese     | A2          |
+| Inglese     | A2/B1       |
 
 *Patente di guida* :car:
 > AM, B
