@@ -3,14 +3,14 @@
 *@@ Alessia 'alexia.iul' ⭐ @@*
 *wed designer & future web developer*
 
-> creativa ed appasionata di tecnologia
-> personalità INFP-T
-> condivisione istantanea sui social dei miei viaggi e daily-routine
+> creativa ed appasionata di tecnologia,
+> personalità INFP-T,
+> condivisione istantanea sui social dei miei viaggi e daily-routine.
 
 >creatrice di siti web/layout tramite wordpress
->appassionata di front-end
->codifica tramite visual studio
->studentessa presso Aulab
+>appassionata di front-end,
+>codifica tramite visual studio,
+>studentessa presso Aulab.
 
 *le mie skill* :raising_hand:
 -ottima ascoltatrice
