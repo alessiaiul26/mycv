@@ -7,8 +7,11 @@
 
 # **Curriculum Vitae Alessia Iulianetti**
 
-*Il mio instagram  &rarr; '@alexia.iul'⭐* <br>
-*wed designer & future web developer* 
+*Il mio instagram  &rarr; '@alexia.iul'* ⭐ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexia.iul/?hl=it) ⭐
+ <br>
+ 
+*wed designer & future web developer* ⭐ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexia-iuliano/) ⭐
+
 
 > creativa ed appasionata di tecnologia,
 > personalità INFP-T,
@@ -26,6 +29,10 @@
 -forte creatività <br>
 -propensione per il mondo tecnologico <br>
 
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV5M2N3dTh6cWkyMHFucDd1b3k4MTgzaXVieTNxOHUxaW01cWptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" width="150" height="150" alt="GIF di un computer" /> <br>
+
+
 *Le mie conoscenze* :computer:
 -HTML & CSS <br>
 -WORDPRESS <br>
@@ -42,5 +49,5 @@
 
 *Patente di guida* :car:
 > AM, B
-> 
-<link>https://camo.githubusercontent.com/377bf327f8109bbaf2365071c01fa5f1366faff9f724eae88274d19f5fa4c17b/68747470733a2f2f692e696d6775722e636f6d2f547a6e6e31495a2e676966</link>
+
+
