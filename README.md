@@ -1,7 +1,9 @@
-**Curriculum Vitae Alessia Iulianetti**
 
-*@@ Alessia 'alexia.iul' ⭐ @@*
-*wed designer & future web developer*
+
+# **Curriculum Vitae Alessia Iulianetti**
+
+*Il mio instagram  &rarr; '@alexia.iul'⭐* <br>
+*wed designer & future web developer* 
 
 > creativa ed appasionata di tecnologia,
 > personalità INFP-T,
