@@ -34,5 +34,13 @@
 -FIGMA <br>
 -SOCIAL NETWORK <br>
 
+*Conoscenza delle lingue*
+| LINGUA      | LIVELLO     |
+| ----------- | ----------- |
+| Italiano    | Madrelingua |
+| Inglese     | A2          |
+
 *Patente di guida* :car:
 > AM, B
+> 
+<link>https://camo.githubusercontent.com/377bf327f8109bbaf2365071c01fa5f1366faff9f724eae88274d19f5fa4c17b/68747470733a2f2f692e696d6775722e636f6d2f547a6e6e31495a2e676966</link>
